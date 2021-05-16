@@ -71,4 +71,3 @@ code behaves as desired and does not break over time.
 
 [For hints on how to write tests for solids and pipelines in Dagster,
 [see our documentation tutorial on Testing](https://docs.dagster.io/tutorial/testable).
-# dagster_proj
